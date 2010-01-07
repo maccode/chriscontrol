@@ -1,4 +1,4 @@
-#labels Phase-Implementation
+#labels Phase-Implementation,Featured
 =Early beta Release!=
 
 ==RDP:==
@@ -17,3 +17,5 @@ VNC Install, connect and remove all look to work OK, although only tested connec
 
 ==Wake On LAN:==
 Not tested.  
+
+==Please post all Problems / Requests on Issues Page (Issues tab above)==
