@@ -17,3 +17,13 @@
   * RDP client (mstsc.exe) longer contained in chriscontrol.exe. (All modern Windows O/S have RDP client installed as part of O/S.) If an RDP client is required, one can easily be downloaded from [http://support.microsoft.com/kb/969084 here]
   * New version of Ultr@VNC included - v1.0.8.2
   * Lots of small code tweaks to enable source to run and compile using AutoIt v3.3.2.0
+
+
+==To Do==
+  * Remote Host firewall open for VNC.  Required if remote system has firewall enabled as well as file & printer sharing 
+  * Test cmd line
+  * Test WOL
+  * Update help file 
+
+
+=Please post all Problems / Requests on Issues Page (Issues tab above)=
