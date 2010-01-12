@@ -1,4 +1,3 @@
-#labels Deprecated
 =Early beta Release!=
 
 ==RDP:==
